@@ -1,7 +1,3 @@
-#Name: Nafis Anwar
-#U-Number: U2092-0991
-#Description: This is the first module of a trivia program that holds a question class with several attributes, and their accessors, mutators
-
 
 class Question:
     def __init__(self, prompt, ans1, ans2, ans3, ans4, corr_ans):
