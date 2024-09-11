@@ -1,4 +1,4 @@
-Trivia Game Program
+
 A modular Python-based trivia game designed to challenge players with fun and educational questions. This project demonstrates the use of object-oriented programming (OOP) principles, allowing for easy extensibility and maintainability. The game features a two-player mode, where players alternate answering multiple-choice questions from a predefined question bank.
 
 Features:
