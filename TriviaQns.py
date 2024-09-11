@@ -1,6 +1,3 @@
-#Name: Nafis Anwar
-#U-Number: U2092-0991
-#Description: This is the second module of a trivia program that creates a list of trivia question objects
 
 from Question import Question
 
