@@ -1,6 +1,3 @@
-#Name: Nafis Anwar
-#U-Number: U2092-0991
-#Description: This is the driver program of a trivia game that executes the program by importing and running the other modules
 
 #import function
 from TriviaQns import questionlist
